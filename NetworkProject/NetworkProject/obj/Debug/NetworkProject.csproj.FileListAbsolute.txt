@@ -1,0 +1,36 @@
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\bin\Debug\NetworkProject.exe.config
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\bin\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\bin\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache

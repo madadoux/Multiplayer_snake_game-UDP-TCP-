@@ -1,0 +1,11 @@
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\bin\Release\NetworkProject.exe.config
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\bin\Release\NetworkProject.exe
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\bin\Release\NetworkProject.pdb
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.GamePlayingScreen.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.GameSettingScreen.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.GameStart.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.Properties.Resources.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.WinningForm.resources
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.csproj.GenerateResource.Cache
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.exe
+C:\Users\mada1\Desktop\NetworkProject\NetworkProject\obj\Release\NetworkProject.pdb
